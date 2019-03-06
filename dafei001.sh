@@ -15,3 +15,5 @@ for i in range(5):
     else :
       print 'think bigger!'
     print 'you still got %d shots!' %(4 - i)
+
+print '大飞哥真牛逼啊！'
